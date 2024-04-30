@@ -19,7 +19,7 @@ variable "security_groups" {
 variable "security_group_http" {
   description = "only allow HTTP"
   type        = string
-  default     = "sg-0e9c7275e10f2d398"
+  default     = "sg-093056215a1d87bab"
 }
 
 variable "subnet" {
